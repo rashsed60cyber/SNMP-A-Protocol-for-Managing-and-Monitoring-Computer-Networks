@@ -71,7 +71,7 @@ After reviewing this presentation, readers will understand how SNMP supports cen
 
 ## 👨‍🎓 Student Information
 
- Information           Details 
+ Information    |       Details 
 
  Student Name:       Md. Abu Bakor 
  Student ID  :       IT24014 
