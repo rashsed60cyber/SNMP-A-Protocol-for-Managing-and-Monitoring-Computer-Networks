@@ -71,21 +71,11 @@ After reviewing this presentation, readers will understand how SNMP supports cen
 
 ## 👨‍🎓 Student Information
 
- Information    |       Details 
+# Information    |       Details 
 
- Student Name:       Md. Abu Bakor 
- Student ID  :       IT24014 
- Department  :       Information and Communication Technology 
- University  :       Mawlana Bhashani Science and Technology University 
- Supervisor  :       Dr. Nazrul Islam 
- Designation :       Associate Professor 
-
----
-
-<p align="center">
-  **Mawlana Bhashani Science and Technology University (MBSTU)**
-
-  Department of Information and Communication Technology
-
-  *Thank You for Visiting This Repository!*
-</p>
+# Student Name:       Md. Abu Bakor 
+# Student ID  :       IT24014 
+# Department  :       Information and Communication Technology 
+# University  :       Mawlana Bhashani Science and Technology University 
+# Supervisor  :       Dr. Nazrul Islam 
+# Designation :       Associate Professor 
